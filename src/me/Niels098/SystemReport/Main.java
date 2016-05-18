@@ -29,7 +29,7 @@ public class Main extends JavaPlugin {
             public void run() {
 
                 for (Player player : Bukkit.getOnlinePlayers()) {
-                    if (!player.hasPermission("report.see")) {
+                    if (player.hasPermission("report.see")) {
                         join_events.staff_members.add(player);
                     }
                 }
