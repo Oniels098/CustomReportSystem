@@ -1,5 +1,5 @@
 name: report
-version: 1.0.0
+version: 1.0.1
 author: Niels098
 main: me.Niels098.SystemReport.Main
 commands:

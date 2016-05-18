@@ -7,12 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90fcdf45-3897-49c9-b118-d175e043c765" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/me/Niels098/SystemReport/events/join_events.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/me/Niels098/SystemReport/events/quit_events.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/me/Niels098/SystemReport/commands/test.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/me/Niels098/SystemReport/Main.java" afterPath="$PROJECT_DIR$/src/me/Niels098/SystemReport/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/me/Niels098/SystemReport/commands/report.java" afterPath="$PROJECT_DIR$/src/me/Niels098/SystemReport/commands/report.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.yml" afterPath="$PROJECT_DIR$/plugin.yml" />
     </list>
     <ignored path="CustomReportSystem.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,7 +29,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/me/Niels098/SystemReport/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
@@ -52,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="plugin.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="plugin.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/plugin.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <state relative-caret-position="15">
+              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -128,13 +123,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/plugin.yml" />
         <option value="$PROJECT_DIR$/config.yml" />
         <option value="$PROJECT_DIR$/src/me/Niels098/SystemReport/commands/test.java" />
         <option value="$PROJECT_DIR$/src/me/Niels098/SystemReport/events/join_events.java" />
         <option value="$PROJECT_DIR$/src/me/Niels098/SystemReport/events/quit_events.java" />
         <option value="$PROJECT_DIR$/src/me/Niels098/SystemReport/commands/report.java" />
         <option value="$PROJECT_DIR$/src/me/Niels098/SystemReport/Main.java" />
+        <option value="$PROJECT_DIR$/plugin.yml" />
       </list>
     </option>
   </component>
@@ -667,14 +662,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/me/Niels098/SystemReport/commands/test.java" />
-    <entry file="file://$PROJECT_DIR$/plugin.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/me/Niels098/SystemReport/commands/test.java" />
     <entry file="file://$PROJECT_DIR$/config.yml">
       <provider selected="true" editor-type-id="text-editor">
@@ -727,6 +714,14 @@
             <element signature="e#1416#1417#0" expanded="true" />
             <element signature="e#1478#1479#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
