@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="report">
+    <output-path>$USER_HOME$/Documents/Spigot plugins</output-path>
+    <root id="archive" name="report.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="module-output" name="CustomReportSystem" />
+    </root>
+  </artifact>
+</component>

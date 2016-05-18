@@ -1,0 +1,6 @@
+messages:
+  usage: '&7[&cReport&7] &c/report <player> <reason>'
+  offlineplayer: '&7[&cReport&7] &cThis player is not online!'
+  noreason: '&7[&cReport&7] &cYou must enter a valid reason the report this player.'
+  reportsucces: '&7[&cReport&7] &aYou have reported &6%player% &afor &c%reason%&a!'
+  newreport: '&7[&cReport&7] &6%reporter% &ahas reported &6%player% for &7%reason%&a.'

@@ -1,0 +1,6 @@
+name: report
+version: 1.0.0
+author: Niels098
+main: me.Niels098.SystemReport.Main
+commands:
+   report:
