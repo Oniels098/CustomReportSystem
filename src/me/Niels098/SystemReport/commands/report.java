@@ -34,7 +34,8 @@ public class report implements CommandExecutor {
                             player.sendMessage(ChatColor.translateAlternateColorCodes('&', Main.pl.getConfig().getString("messages.newreport").replaceAll("%reason%", reason(args)).replaceAll("%reporter%", sender.getName()).replaceAll("%player%", localPlayer.getName())));
                             return true;
 
-                        }  if (!sender.hasPermission("report.use")) {
+                        }  if (!sender.hasPermission("report.see" +
+                            "")) {
                             sender.sendMessage(ChatColor.translateAlternateColorCodes('&', Main.pl.getConfig().getString("messages.nopermissions")));
                         }
                 }
